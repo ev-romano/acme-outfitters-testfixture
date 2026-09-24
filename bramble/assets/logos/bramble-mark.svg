@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128" viewBox="0 0 128 128">
+  <title>Bramble Supply</title>
+  <circle cx="38.0" cy="52" r="10.2" fill="#7A2E4A"/>
+  <circle cx="60.0" cy="52" r="10.2" fill="#7A2E4A"/>
+  <circle cx="82.0" cy="52" r="10.2" fill="#7A2E4A"/>
+  <circle cx="27.0" cy="71" r="10.2" fill="#7A2E4A"/>
+  <circle cx="49.0" cy="71" r="10.2" fill="#7A2E4A"/>
+  <circle cx="71.0" cy="71" r="10.2" fill="#7A2E4A"/>
+  <circle cx="93.0" cy="71" r="10.2" fill="#7A2E4A"/>
+  <circle cx="38.0" cy="90" r="10.2" fill="#7A2E4A"/>
+  <circle cx="60.0" cy="90" r="10.2" fill="#7A2E4A"/>
+  <circle cx="82.0" cy="90" r="10.2" fill="#7A2E4A"/>
+  <circle cx="49.0" cy="109" r="10.2" fill="#7A2E4A"/>
+  <circle cx="71.0" cy="109" r="10.2" fill="#7A2E4A"/>
+  <path d="M44 41 L52 36 L56 30 L60 36 L66 30 L68 37 L77 41 L64 43 L60 47 L56 43 Z" fill="#1E2A44"/>
+  <path d="M62 38 C64 20 82 8 112 8 C110 30 92 44 62 38 Z M68 35.5 C80 30 94 22 106 12.5 C95 24 82 32 68 35.5 Z" fill-rule="evenodd" fill="#1E2A44"/>
+</svg>
